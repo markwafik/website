@@ -1,0 +1,386 @@
+.bg-dark
+{
+    background-color: transparent !important;
+}
+header
+{
+    width: 100%;
+    height: 650px;
+    background-color: #37517E;
+    color: whitesmoke;
+}
+header img
+{
+    width: 100%;
+    position: relative;
+    animation: hero 1s infinite alternate;
+}
+
+.bg-gray
+{
+    background-color: rgba(40, 58, 90, 0.9);
+}
+.span
+{
+    width: 50px;
+    height: 2px;
+    background-color: gray;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+#A
+{
+    background-color: rgb(3, 240, 252);
+}
+
+
+.about i
+{
+    color: royalblue;
+}
+
+
+.why-us
+{
+    width: 100%;
+    height: auto;
+    background-color: #F3F5FA;
+}
+
+.why-us img
+{
+    width: 100%;
+}
+.Portfolio img
+{
+    width: 100%;
+}
+@keyframes hero
+{
+    from
+    {
+        top: 0;
+    }
+    to
+    {
+        top: 25;
+    }
+}
+section h3
+{
+    font-weight: bold;
+    color:#37517E ;
+}
+.GG 
+{
+    background-color: rgba(100,149,237,0.2);
+    height: auto;
+    padding-bottom: 40px;
+    width: 100%;
+}
+.first 
+{
+    width: 30%;
+    height: 200px;
+    background-color: cornsilk;
+    box-shadow: rgba(0,0,0,0.5);
+}
+.first:hover
+{
+    scale: 1.1;
+}
+.first img
+{
+    width: 100%;
+    height: 140px;
+    margin-top: 15px;
+    border-radius: 70px;
+}
+.first h5
+{
+    font-weight: bold;
+    color:#37517E ; 
+}
+
+.second 
+{
+    width: 30%;
+    height: 200px;
+    background-color: cornsilk;
+    margin-left: 20px;
+}
+.second:hover
+{
+    scale: 1.1;
+}
+.second img
+{
+    width: 100%;
+    height: 140px;
+    margin-top: 15px;
+    border-radius: 70px;
+}
+.second h5
+{
+    font-weight: bold;
+    color:#37517E ; 
+}
+ img.icon
+{
+    width: 10%;
+    height: 30px;
+}
+.HH 
+{
+    margin-top: 20px;
+}
+.bar h5,h1
+{
+    font-weight: 600;
+    color:#37517E ;  
+}
+.bar p
+{
+    display: inline;
+    color: gray;
+    padding: 10px;
+    
+}
+.bar h6
+{
+    color: rgb(100,149,237);
+}
+#click
+{
+    color: lightgreen;
+}
+#cross
+{
+    color: lightslategray;
+}
+#line
+{
+    text-decoration: line-through;
+    
+}
+.bar button
+{
+    border-radius: 50px;
+    margin-top: 30px;
+}
+.bar
+{
+    margin: 20px 10px;
+    box-shadow:  6px 4px rgba(245,245,245,1);
+    border-top: blue;
+    border-top-style: solid;
+}
+.bar:hover
+{
+    margin-top: 5%;
+    background-color:rgba(100,149,237,0.2);
+}
+.pricing
+{
+    margin-top: 50px;
+    height: auto;
+}
+.FQ
+{
+    background-color: rgba(100,149,237,0.2);
+    height: auto;
+    padding-bottom: 40px;
+    width: 100%;
+}
+.FQ h3
+{
+  padding-top: 70px;
+}
+.con 
+{
+    padding-top: 50px;
+}
+.add
+{
+    border-top-color:rgb(0, 162, 255);
+    border-bottom-color:rgb(0, 162, 255);
+    height: auto;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    padding: 10px;
+    box-shadow:  6px 10px rgba(245,245,245,1);
+    
+    
+    
+
+}
+.add i
+{
+    width: 10%;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 50px;
+    font-size: 20px;
+    color: rgb(0, 162, 255);
+    background-color: rgba(0, 162, 255,0.5);
+}
+.add h4
+{
+    display: inline;
+    font-size: 20px;
+    font-weight: 700;
+}
+.add p
+{
+    color: gray;
+    display: block;
+    font-size: 15px;
+    margin-left: 50px;
+
+}
+iframe
+{
+    width: 80%;
+    height:300px;
+    padding-left: 50px;
+}
+.nam
+{
+    border-top-color:rgb(0, 162, 255);
+    border-bottom-color:rgb(0, 162, 255);
+    height: auto;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    padding: 10px;
+    box-shadow:  6px 10px rgba(245,245,245,1);
+    
+}
+.nam button
+{
+    border-radius: 50px;
+    margin-left: 100px;
+}
+.join
+{
+    width: 100%;
+    height: 200px;
+    background-color:rgba(0, 162, 255,0.2);
+    margin-top: 50px;
+    text-align: center;
+}
+.join h3
+{
+    padding-top: 20px;
+}
+input
+{
+    width: 40%;
+    border: none;
+    border-radius: 70px;
+    height: 40px;
+    position: relative;
+    padding: 10px;
+    
+}
+.join button
+{
+    position: absolute;
+    width: 100px;
+    right: 30%;
+    border: none;
+    height: 40px;
+    border-radius: 70px;
+    background-color: rgb(0, 162, 255);
+    color: white;
+}
+.z
+{
+    color: gray;
+    font-weight: bold;
+}
+.f
+{
+    color: black;
+    font-weight: bold;
+}
+.arc p
+{
+    color: gray;
+}
+.arc i
+{
+    color:rgb(0, 162, 255) ;
+    display: block;
+}
+.arc h5
+{
+    font-weight: bold;
+    color:#37517E ;
+}
+.ash
+{
+    margin-left: 10%;
+    margin-top: 8%;
+}
+footer
+{
+    background-color:#37517E ;
+    width: 100%;
+    height: 70px;
+    margin-top: 50px;
+    padding-top:15px;
+    
+}
+footer p 
+{
+    color: white;
+    font-size: 15px;
+    display: inline;
+   
+    margin-left: 3%;
+
+}
+footer p span
+{
+    color: white;
+    font-weight: bold;
+
+}
+span .boot
+{
+    color: rgb(0, 162, 255);
+}
+footer h6
+{
+    color: white;
+    font-size: 15px;
+    display: inline;
+    margin-left: 50%;
+    
+    
+}
+footer h6 span
+{
+    color: rgb(0, 162, 255);
+}
+#myBtn {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: rgb(0, 162, 255); /* Set a background color */
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 70px; /* Rounded corners */
+    font-size: 18px; /* Increase font size */
+  }
+  
+  #myBtn:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+  }
+
